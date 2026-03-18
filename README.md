@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:8b0000&height=140&section=header"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=28&center=true&vCenter=true&width=500&lines=FiveM+Developer;UI+%2F+Systems;Performance+Focused" />
-</p>
-
 ---
 
 <p align="center">
