@@ -1,24 +1,46 @@
 <p align="center">
-  <strong>Hey There</strong><br/>
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" alt="Spinning cog"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:8b0000&height=140&section=header"/>
 </p>
 
-## My Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5hahfivem&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=5hahfivem&count_private=true&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=28&center=true&vCenter=true&width=500&lines=FiveM+Developer;UI+%2F+Systems;Performance+Focused" />
 </p>
 
-## Tools  
+---
+
 <p align="center">
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" alt="VS Code"/></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js" alt="Node.js"/></a>
-  <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua" alt="Lua"/></a>
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react" alt="React"/></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=5hahfivem&theme=dracula&hide_border=true" width="420"/>
 </p>
 
-## Servers  
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/c59c8b193423781.65eb6f078e5b4.gif" alt="Server Pulse" width="250"/><br/>
-  <a href="https://www.1of1servers.com">1of1Servers</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=5hahfivem&show_icons=true&theme=dracula&hide_border=true" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5hahfivem&layout=compact&theme=dracula&hide_border=true" width="320"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,js,react,nodejs,html,css,git,vscode" />
+</p>
+
+---
+
+## 
+
+<p align="center">
+  <a href="https://www.1of1servers.com">
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/c59c8b193423781.65eb6f078e5b4.gif" width="750"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=5hahfivem&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,100:ff0000&height=120&section=footer"/>
 </p>
